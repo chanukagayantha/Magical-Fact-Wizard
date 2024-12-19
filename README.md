@@ -22,7 +22,7 @@ This is a simple web application that allows users to input a number between 1 a
 
 2. Navigate to the project directory:
     ```sh
-    cd random-fact-generator
+    cd magical-fact-generator
     ```
 
 3. Open the `index.html` file in your web browser to run the application.
