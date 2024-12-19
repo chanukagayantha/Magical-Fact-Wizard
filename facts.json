@@ -1,0 +1,82 @@
+[
+    {
+        "fact": "You will win a lottery in 2028",
+        "image": "images/lottery.jpeg"
+    },
+    {
+        "fact": "You will travel to space in 2030",
+        "image": "images/space.jpeg"
+    },
+    {
+        "fact": "You will meet a famous celebrity next year",
+        "image": "images/celebrity.jpeg"
+    },
+    {
+        "fact": "You will invent something amazing",
+        "image": "images/invent.jpeg"
+    },
+    {
+        "fact": "You will buy your dream house",
+        "image": "images/house.jpeg"
+    },
+    {
+        "fact": "You will master a new skill",
+        "image": "images/skill.jpeg"
+    },
+    {
+        "fact": "You will make a new best friend",
+        "image": "images/friend.jpeg"
+    },
+    {
+        "fact": "You will achieve your fitness goals",
+        "image": "images/fitness.jpeg"
+    },
+    {
+        "fact": "You will find unexpected wealth",
+        "image": "images/wealth.jpeg"
+    },
+    {
+        "fact": "You will have a great adventure",
+        "image": "images/adventure.jpeg"
+    },
+    {
+        "fact": "You will start a successful business",
+        "image": "images/business.jpeg"
+    },
+    {
+        "fact": "You will write a best-selling book",
+        "image": "images/book.jpeg"
+    },
+    {
+        "fact": "You will learn a new language",
+        "image": "images/language.jpeg"
+    },
+    {
+        "fact": "You will travel the world",
+        "image": "images/travel.jpeg"
+    },
+    {
+        "fact": "You will adopt a pet",
+        "image": "images/pet.jpeg"
+    },
+    {
+        "fact": "You will become a mentor",
+        "image": "images/mentor.jpeg"
+    },
+    {
+        "fact": "You will discover a hidden talent",
+        "image": "images/talent.jpeg"
+    },
+    {
+        "fact": "You will get a dream job",
+        "image": "images/job.jpeg"
+    },
+    {
+        "fact": "You will reconnect with an old friend",
+        "image": "images/old_friend.jpeg"
+    },
+    {
+        "fact": "You will make a positive impact on someone's life",
+        "image": "images/impact.jpeg"
+    }
+]
