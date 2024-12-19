@@ -27,6 +27,25 @@ This is a simple web application that allows users to input a number between 1 a
 
 3. Open the `index.html` file in your web browser to run the application.
 
+## CORS Issue
+
+**Note:** Due to Cross-Origin Resource Sharing (CORS) restrictions, users may encounter issues when trying to fetch data from external sources (such as `facts.json`) if the application is accessed directly from the file system (e.g., opening the `index.html` file directly in a browser).
+
+### How to Overcome CORS Issues
+
+To overcome CORS issues and ensure the application works correctly, you can:
+
+1. **Run a Local Web Server:**
+   - Use a local web server to serve your files. This can be done using various tools, such as Python's built-in HTTP server, Node.js, or other web server solutions.
+
+   For example, using Python:
+   ```sh
+   # For Python 3.x
+   python -m http.server
+
+   # For Python 2.x
+   python -m SimpleHTTPServer
+
 ## Usage
 
 1. Open the application in your web browser.
