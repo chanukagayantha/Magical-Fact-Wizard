@@ -17,7 +17,7 @@ This is a simple web application that allows users to input a number between 1 a
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/chanukagayantha/Random-Fact-Wizard.git
+    git clone https://github.com/chanukagayantha/Magical-Fact-Wizard.git
     ```
 
 2. Navigate to the project directory:
@@ -64,4 +64,4 @@ If you have any questions or feedback, feel free to contact the project maintain
 
 ---
 
-Enjoy the Random Fact Generator!
+Enjoy the Magical Fact Generator!
