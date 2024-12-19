@@ -17,7 +17,7 @@ This is a simple web application that allows users to input a number between 1 a
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/chanukagayantha/Random-Fact-Wizard.git
     ```
 
 2. Navigate to the project directory:
