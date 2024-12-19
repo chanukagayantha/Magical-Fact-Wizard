@@ -1,82 +1,82 @@
 [
     {
-        "fact": "You will win a lottery in 2028",
+        "fact": "2028 දී ඔබ ලොතරැයියක් දිනාගනීවි",
         "image": "images/lottery.jpeg"
     },
     {
-        "fact": "You will travel to space in 2030",
+        "fact": "2030 දී ඔබ අභ්‍යවකාශයට ගමන් කරනු ඇත",
         "image": "images/space.jpeg"
     },
     {
-        "fact": "You will meet a famous celebrity next year",
+        "fact": "ඔබ ඊළඟ වසරේදී ප්‍රසිද්ධ කේන්ද්‍රීයයකු හමුවේවි",
         "image": "images/celebrity.jpeg"
     },
     {
-        "fact": "You will invent something amazing",
+        "fact": "ඔබ අද්විතීය දෙයක් නිපදවනු ඇත",
         "image": "images/invent.jpeg"
     },
     {
-        "fact": "You will buy your dream house",
+        "fact": "ඔබ ඔබගේ සිහින නිවහන මිලදී ගනීවි",
         "image": "images/house.jpeg"
     },
     {
-        "fact": "You will master a new skill",
+        "fact": "ඔබ නව කුසලතාවයක් ප්‍රගුණ කරනු ඇත",
         "image": "images/skill.jpeg"
     },
     {
-        "fact": "You will make a new best friend",
+        "fact": "ඔබ නවතම හොඳම යහළුවෙකු සොයාගනීවි",
         "image": "images/friend.jpeg"
     },
     {
-        "fact": "You will achieve your fitness goals",
+        "fact": "ඔබ ඔබගේ සෞඛ්‍ය අරමුණු ඉටු කරනු ඇත",
         "image": "images/fitness.jpeg"
     },
     {
-        "fact": "You will find unexpected wealth",
+        "fact": "ඔබ අන්තේවාසික සම්පත් සොයාගනීවි",
         "image": "images/wealth.jpeg"
     },
     {
-        "fact": "You will have a great adventure",
+        "fact": "ඔබ විශාල ව්‍යාපෘතියක් යෙදෙනු ඇත",
         "image": "images/adventure.jpeg"
     },
     {
-        "fact": "You will start a successful business",
+        "fact": "ඔබ සාර්ථක ව්‍යාපාරයක් ආරම්භ කරනු ඇත",
         "image": "images/business.jpeg"
     },
     {
-        "fact": "You will write a best-selling book",
+        "fact": "ඔබ හොඳම විකුණුම් පොතක් ලියනු ඇත",
         "image": "images/book.jpeg"
     },
     {
-        "fact": "You will learn a new language",
+        "fact": "ඔබ නව භාෂාවක් ඉගෙනගනු ඇත",
         "image": "images/language.jpeg"
     },
     {
-        "fact": "You will travel the world",
+        "fact": "ඔබ ලොව වටා සංචාරය කරනු ඇත",
         "image": "images/travel.jpeg"
     },
     {
-        "fact": "You will adopt a pet",
+        "fact": "ඔබ සුරතල් සතෙකු හදුනාගනීවි",
         "image": "images/pet.jpeg"
     },
     {
-        "fact": "You will become a mentor",
+        "fact": "ඔබ මාර්ගදර්ශිකයකු වනු ඇත",
         "image": "images/mentor.jpeg"
     },
     {
-        "fact": "You will discover a hidden talent",
+        "fact": "ඔබ සැඟවුණු දක්ෂතාවයක් සොයාගනීවි",
         "image": "images/talent.jpeg"
     },
     {
-        "fact": "You will get a dream job",
+        "fact": "ඔබ ඔබගේ සිහින රැකියාවක් ලබාගනීවි",
         "image": "images/job.jpeg"
     },
     {
-        "fact": "You will reconnect with an old friend",
+        "fact": "ඔබ පැරණි යහළුවකු සමඟ නැවත මුණගැසෙනු ඇත",
         "image": "images/old_friend.jpeg"
     },
     {
-        "fact": "You will make a positive impact on someone's life",
+        "fact": "ඔබ කෙනෙකුගේ ජීවිතයට ධනාත්මක බලපෑමක් තබනු ඇත",
         "image": "images/impact.jpeg"
     }
 ]
