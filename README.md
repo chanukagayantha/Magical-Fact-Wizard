@@ -1,4 +1,4 @@
-# Random Fact Generator
+# Random Fact Wizard
 
 This is a simple web application that allows users to input a number between 1 and 9 and receive a random fact along with an image. The application includes an animated wizard image and a magic ball image that rotates slowly. Additionally, the application supports keyboard interactions, allowing users to use the Enter key and the right Shift key to interact with the buttons.
 
