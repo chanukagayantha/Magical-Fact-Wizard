@@ -40,6 +40,13 @@ body::before {
     z-index: 1;
 }
 
+.side-div {
+    flex: 1;
+    text-align: center;
+    padding: 10px;
+    color: #ffffff;
+}
+
 h1 {
     color: #ffffff;
     text-align: center;
@@ -206,4 +213,23 @@ button:hover {
     border-width: 5px;
     /* Increase border width */
     animation: borderAnimation 3s infinite;
+}
+
+/* Other styles remain unchanged */
+
+/* Add this keyframes animation for rotating the image */
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+/* Apply the rotation animation to the image */
+#rightDiv img {
+    animation: rotate 10s linear infinite;
+    /* Adjust the duration as needed */
 }

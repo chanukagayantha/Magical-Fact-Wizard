@@ -9,11 +9,12 @@
 </head>
 
 <body>
+    <div class="side-div" id="leftDiv"><img src="images/wizard1.png" width="60%" alt=""></div>
     <div class="container">
         <h1 id="title">1ත් 9ත් අතර ඔබ කැමති අංකයක් ඇතුලත් කරන්න</h1>
         <input type="number" id="numberInput" oninput="validateInput(this)">
         <br>
-        <button onclick="showFact()">අනාගත මැජික් වාක්‍ය ලබාගන්න</button>
+        <button id="mainButton" onclick="showFact()">අනාගත මැජික් වාක්‍ය ලබාගන්න</button>
         <div id="loading" class="loading" style="display: none;">
             <div class="circle"></div>
             <div class="circle"></div>
@@ -25,7 +26,8 @@
             <img id="factImage" src="" alt="Fact Image">
         </div>
     </div>
-    <button class="floating-button" onclick="resetScreen()">මීළඟ</button>
+    <div class="side-div" id="rightDiv"><img src="images/magic_ball.png" width="60%" alt=""></div>
+    <button class="floating-button" id="floatingButton" onclick="resetScreen()">මීළඟ</button>
     <script src="script.js"></script>
 </body>
 

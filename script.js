@@ -1,13 +1,29 @@
+document.addEventListener("DOMContentLoaded", function () {
+  // Set focus on the input field when the page loads
+  const numberInput = document.getElementById("numberInput");
+  numberInput.focus();
+
+  // Add event listener for the Enter key and ShiftRight key
+  document.addEventListener("keydown", function (event) {
+    if (event.key === "Enter") {
+      document.getElementById("mainButton").click();
+    } else if (event.code === "ShiftRight") {
+      document.getElementById("floatingButton").click();
+    }
+  });
+});
+
 async function showFact() {
   // Ensure elements exist before accessing them
   const title = document.getElementById("title");
   const numberInput = document.getElementById("numberInput");
-  const factButton = document.querySelector("button[onclick='showFact()']");
+  const factButton = document.getElementById("mainButton");
   const loading = document.getElementById("loading");
   const factContainer = document.getElementById("factContainer");
   const factText = document.getElementById("factText");
   const factImage = document.getElementById("factImage");
   const container = document.querySelector(".container");
+  const leftImage = document.querySelector("#leftDiv img");
 
   if (
     title &&
@@ -17,7 +33,8 @@ async function showFact() {
     factContainer &&
     factText &&
     factImage &&
-    container
+    container &&
+    leftImage
   ) {
     // Hide the title, input, and button
     title.style.display = "none";
@@ -30,7 +47,10 @@ async function showFact() {
     factContainer.style.display = "none";
 
     // Wait for 3 seconds
-    await new Promise((resolve) => setTimeout(resolve, 1500));
+    await new Promise((resolve) => setTimeout(resolve, 3000));
+
+    // Change the left image to wizard2.png
+    leftImage.src = "images/wizard2.png";
 
     const numberValue = numberInput.value;
     if (numberValue) {
@@ -72,11 +92,12 @@ async function showFact() {
 function resetScreen() {
   const title = document.getElementById("title");
   const numberInput = document.getElementById("numberInput");
-  const factButton = document.querySelector("button[onclick='showFact()']");
+  const factButton = document.getElementById("mainButton");
   const factContainer = document.getElementById("factContainer");
   const factText = document.getElementById("factText");
   const factImage = document.getElementById("factImage");
   const container = document.querySelector(".container");
+  const leftImage = document.querySelector("#leftDiv img");
 
   if (
     title &&
@@ -85,7 +106,8 @@ function resetScreen() {
     factContainer &&
     factText &&
     factImage &&
-    container
+    container &&
+    leftImage
   ) {
     // Clear the input field
     numberInput.value = "";
@@ -101,6 +123,11 @@ function resetScreen() {
     factButton.style.display = "inline-block";
     // Remove the animated border class from the container
     container.classList.remove("animated-border");
+    // Change the left image back to wizard1.png
+    leftImage.src = "images/wizard1.png";
+
+    // Set focus back on the input field
+    numberInput.focus();
   } else {
     console.error("One or more elements are missing in the DOM.");
   }
