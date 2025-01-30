@@ -233,3 +233,24 @@ button:hover {
     animation: rotate 10s linear infinite;
     /* Adjust the duration as needed */
 }
+
+/* Floating Play Music Button */
+.music-button {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    background-color: #ff9800;
+    color: white;
+    border: none;
+    padding: 12px 18px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    transition: background 0.3s ease-in-out;
+}
+
+.music-button:hover {
+    background-color: #e68900;
+}

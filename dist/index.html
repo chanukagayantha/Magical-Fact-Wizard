@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Magical Forest</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="side-div" id="leftDiv"><img src="images/wizard1.png" width="60%" alt=""></div>
+    <div class="container">
+        <h1 id="title">1ත් 9ත් අතර ඔබ කැමති අංකයක් ඇතුලත් කරන්න</h1>
+        <input type="number" id="numberInput" oninput="validateInput(this)">
+        <br>
+        <button id="mainButton" onclick="showFact()">අනාගත මැජික් වාක්‍ය ලබාගන්න</button>
+        <div id="loading" class="loading" style="display: none;">
+            <div class="circle"></div>
+            <div class="circle"></div>
+            <div class="circle"></div>
+            <div class="circle"></div>
+
+        </div>
+        <div id="factContainer">
+            <p id="factText"></p>
+            <img id="factImage" src="" alt="Fact Image">
+        </div>
+    </div>
+    <div class="side-div" id="rightDiv"><img src="images/magic_ball.png" width="60%" alt=""></div>
+    <button id="toggleSound" class="music-button">🔊</button>
+    <button class="floating-button" id="floatingButton" onclick="resetScreen()">මීළඟ</button>
+    <script src="script.js"></script>
+</body>
+
+</html>

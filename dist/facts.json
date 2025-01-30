@@ -1,0 +1,82 @@
+[
+    {
+        "fact": "2028 දී ඔබ ලොතරැයියක් දිනාගනීවි",
+        "image": "images/lottery.jpeg"
+    },
+    {
+        "fact": "2030 දී ඔබ අභ්‍යවකාශයට ගමන් කරනු ඇත",
+        "image": "images/space.jpeg"
+    },
+    {
+        "fact": "ඔබ ඊළඟ වසරේදී ප්‍රසිද්ධ කේන්ද්‍රීයයකු හමුවේවි",
+        "image": "images/celebrity.jpeg"
+    },
+    {
+        "fact": "ඔබ අද්විතීය දෙයක් නිපදවනු ඇත",
+        "image": "images/invent.jpeg"
+    },
+    {
+        "fact": "ඔබ ඔබගේ සිහින නිවහන මිලදී ගනීවි",
+        "image": "images/house.jpeg"
+    },
+    {
+        "fact": "ඔබ නව කුසලතාවයක් ප්‍රගුණ කරනු ඇත",
+        "image": "images/skill.jpeg"
+    },
+    {
+        "fact": "ඔබ නවතම හොඳම යහළුවෙකු සොයාගනීවි",
+        "image": "images/friend.jpeg"
+    },
+    {
+        "fact": "ඔබ ඔබගේ සෞඛ්‍ය අරමුණු ඉටු කරනු ඇත",
+        "image": "images/fitness.jpeg"
+    },
+    {
+        "fact": "ඔබ අන්තේවාසික සම්පත් සොයාගනීවි",
+        "image": "images/wealth.jpeg"
+    },
+    {
+        "fact": "ඔබ විශාල ව්‍යාපෘතියක් යෙදෙනු ඇත",
+        "image": "images/adventure.jpeg"
+    },
+    {
+        "fact": "ඔබ සාර්ථක ව්‍යාපාරයක් ආරම්භ කරනු ඇත",
+        "image": "images/business.jpeg"
+    },
+    {
+        "fact": "ඔබ හොඳම විකුණුම් පොතක් ලියනු ඇත",
+        "image": "images/book.jpeg"
+    },
+    {
+        "fact": "ඔබ නව භාෂාවක් ඉගෙනගනු ඇත",
+        "image": "images/language.jpeg"
+    },
+    {
+        "fact": "ඔබ ලොව වටා සංචාරය කරනු ඇත",
+        "image": "images/travel.jpeg"
+    },
+    {
+        "fact": "ඔබ සුරතල් සතෙකු හදුනාගනීවි",
+        "image": "images/pet.jpeg"
+    },
+    {
+        "fact": "ඔබ මාර්ගදර්ශිකයකු වනු ඇත",
+        "image": "images/mentor.jpeg"
+    },
+    {
+        "fact": "ඔබ සැඟවුණු දක්ෂතාවයක් සොයාගනීවි",
+        "image": "images/talent.jpeg"
+    },
+    {
+        "fact": "ඔබ ඔබගේ සිහින රැකියාවක් ලබාගනීවි",
+        "image": "images/job.jpeg"
+    },
+    {
+        "fact": "ඔබ පැරණි යහළුවකු සමඟ නැවත මුණගැසෙනු ඇත",
+        "image": "images/old_friend.jpeg"
+    },
+    {
+        "fact": "ඔබ කෙනෙකුගේ ජීවිතයට ධනාත්මක බලපෑමක් තබනු ඇත",
+        "image": "images/impact.jpeg"
+    }
+]
